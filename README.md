@@ -1,6 +1,6 @@
 # 📑Description:
 
-I found free courses on Scrimba and created a simple web page that contains a little information about me.
+I found free HTML and CSS courses on Scrimba and created a simple web page that contains a little information about me.
 
 # 🌆Screenshots:
  
